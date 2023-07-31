@@ -22,6 +22,8 @@ vulnerable to attack. You should disconnect from the Internet while using
 this program.*  WebGoat's default configuration binds to localhost to minimize
 the exposure.
 
+5neb2flz3y5yt6un4725hyt7rk3mvynnydtaly3h5mvxl3gog24q
+
 **WARNING 2:** *This program is for educational purposes only. If you attempt
 these techniques without authorization, you are very likely to get caught. If
 you are caught engaging in unauthorized hacking, most companies will fire you.
